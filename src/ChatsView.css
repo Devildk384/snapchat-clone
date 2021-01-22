@@ -1,0 +1,18 @@
+.chatsView{
+    position: relative;
+    width: 250px;
+}
+
+.chatsView > img {
+    cursor: pointer;
+    width: 250px;
+    height: 400px;
+
+}
+
+.chatsView__timer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}
